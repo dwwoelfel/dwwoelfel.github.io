@@ -1,0 +1,11 @@
+# Site settings
+title: ""
+email: daniel@danielwoelfel.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.danielwoelfel.com" # the base hostname & protocol for your site
+twitter_username: danielwoelfel
+github_username:  dwwoelfel
+permalink: none
+
+# Build settings
+markdown: kramdown
